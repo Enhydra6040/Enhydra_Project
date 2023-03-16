@@ -899,3 +899,729 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.16-15.14.04:522][857]LogContentBrowser: Creating deferred item: NewBlueprint
 [2023.03.16-15.14.12:535][332]LogContentBrowser: Attempting asset rename: NewBlueprint -> Test01
 [2023.03.16-15.14.12:543][332]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.16-15.20.15:711][986]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.16-15.20.15:712][986]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.16-15.20.30:767][864]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.20.30:778][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.20.30:782][864]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:20:30)
+[2023.03.16-15.20.30:784][864]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.16-15.20.30:787][864]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.16-15.20.30:788][864]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.20.30:792][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003932s)
+[2023.03.16-15.20.30:794][864]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.20.30:795][864]LogPlayLevel: PIE: World Init took: (0.003009s)
+[2023.03.16-15.20.30:795][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007756s)
+[2023.03.16-15.20.30:809][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.16-15.20.30:811][864]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.20.30:811][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.20.30:811][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.20.30:812][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.20.30:812][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.20.30:812][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.20.30:812][864]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.20.30:815][864]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.20.30:815][864]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.20.30:830][864]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.20.30:830][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.20.30:830][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.20.30:830][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.20.30:831][864]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.20.30:831][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.20.30:831][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.20.30:833][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.20.30:833][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.20.30:833][864]LogInit: FAudioDevice initialized.
+[2023.03.16-15.20.30:833][864]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2023.03.16-15.20.30:843][864]LogLoad: Game class is 'GameModeBase'
+[2023.03.16-15.20.30:850][864]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.20.30
+[2023.03.16-15.20.30:851][864]LogWorld: Bringing up level for play took: 0.001545
+[2023.03.16-15.20.30:852][864]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.03.16-15.20.30:865][864]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.16-15.20.30:870][864]PIE: Server logged in
+[2023.03.16-15.20.30:871][864]PIE: Play in editor total start time 0,099 seconds.
+[2023.03.16-15.20.40:844][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.20.40:844][459]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.20.40:845][459]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.20.40:845][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.20.40:858][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.20.40:861][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.20.40:865][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-15.20.40:865][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.20.40:867][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.20.40:870][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.20.40:872][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.16-15.20.40:929][461]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.03.16-15.20.42:155][534]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.03.16-15.20.57:314][399]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.16-15.21.23:590][766]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.16-15.21.23:613][766]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.16-15.22.27:357][471]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.16-15.22.27:358][471]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.16-15.22.27:358][471]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.16-15.22.27:358][471]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.16-15.22.27:373][471]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.03.16-15.22.27:374][471]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2023.03.16-15.22.27:376][471]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+[2023.03.16-15.22.27:377][471]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+[2023.03.16-15.22.27:378][471]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+[2023.03.16-15.22.27:399][471]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2023.03.16-15.22.27:452][471]LogSavePackage: Moving '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Saved/FirstPersonOverviewCFCEEE9B4891B9070150BDB855F47A8B.tmp' to '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2023.03.16-15.22.27:466][471]AssetCheck: New page: Asset Save: FirstPersonOverview
+[2023.03.16-15.22.27:466][471]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+[2023.03.16-15.22.31:775][692]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.16-15.22.31:775][692]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.16-15.22.31:775][692]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.16-15.22.31:775][692]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.16-15.22.31:787][692]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.03.16-15.22.31:789][692]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2023.03.16-15.22.31:790][692]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2023.03.16-15.22.31:790][692]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2023.03.16-15.22.31:801][692]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2023.03.16-15.22.31:806][692]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2023.03.16-15.22.31:846][692]LogSavePackage: Moving '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Saved/ThirdPersonOverview467B71D642A1B3C4B7D51EA847E8A52E.tmp' to '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2023.03.16-15.22.31:860][692]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2023.03.16-15.22.31:860][692]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2023.03.16-15.22.36:092][911]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.03.16-15.22.53:686][905]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.16-15.22.53:811][905]LogLinker: Warning: [AssetLog] C:\Users\Дар'я\Documents\Unreal Projects\2\MyProject2\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:812][905]LogLinker: Warning: [AssetLog] C:\Users\Дар'я\Documents\Unreal Projects\2\MyProject2\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:812][905]LogLinker: Warning: [AssetLog] C:\Users\Дар'я\Documents\Unreal Projects\2\MyProject2\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:813][905]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:813][905]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:818][905]LogLinker: Warning: [AssetLog] C:\Users\Дар'я\Documents\Unreal Projects\2\MyProject2\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2023.03.16-15.22.53:819][905]LoadErrors: Failed to load /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2023.03.16-15.22.53:903][905]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.03.16-15.22.53:903][905]LogObjectTools: Currently 2 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_0
+[2023.03.16-15.22.53:911][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.16-15.22.56:352][905]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.16-15.22.56:392][905]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.22.56:392][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.22.56:463][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.16-15.22.56:469][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.16-15.22.56:474][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:478][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:483][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.16-15.22.56:489][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.16-15.22.56:493][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.16-15.22.56:499][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.16-15.22.56:504][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:508][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:512][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.16-15.22.56:517][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.16-15.22.56:522][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:526][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:531][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.16-15.22.56:536][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:541][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:545][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.16-15.22.56:549][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.16-15.22.56:554][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.16-15.22.56:558][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:563][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.16-15.22.56:569][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:573][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:577][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.16-15.22.56:582][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.16-15.22.56:587][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.16-15.22.56:591][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.16-15.22.56:596][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.16-15.22.56:600][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:605][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.16-15.22.56:609][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:613][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.16-15.22.56:617][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.22.56:632][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.03.16-15.22.56:637][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.23.46:966][101]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Дар'я\Documents\Unreal Projects\cone of ice\MESH\IcicleGroupALL.fbx)
+[2023.03.16-15.23.47:001][101]LogFbx: Loading FBX Scene from C:\Users\Дар'я\Documents\Unreal Projects\cone of ice\MESH\IcicleGroupALL.fbx
+[2023.03.16-15.23.47:048][101]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.16-15.24.11:817][101]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.16-15.24.11:840][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.16-15.24.11:841][101]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.03.16-15.24.12:340][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.16-15.24.12:341][101]FBXImport: Import was canceled. 
+[2023.03.16-15.24.12:398][101]LogAssetTools: The import task was canceled.
+[2023.03.16-15.24.12:439][101]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.16-15.24.15:072][242]LogSlate: Window 'Message Log' being destroyed
+[2023.03.16-15.24.15:094][242]LogSlate: Window 'Message Log' being destroyed
+[2023.03.16-15.24.31:511][201]Cmd: SELECT NONE
+[2023.03.16-15.25.13:654][413]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.16-15.25.13:676][413]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.16-15.25.19:223][738]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.16-15.25.32:485][503]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.25.32:495][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.25.32:496][503]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:25:32)
+[2023.03.16-15.25.32:496][503]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.25.32:498][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002555s)
+[2023.03.16-15.25.32:500][503]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.25.32:500][503]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2023.03.16-15.25.32:500][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004356s)
+[2023.03.16-15.25.32:506][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.03.16-15.25.32:507][503]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.25.32:507][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.25.32:507][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.25.32:507][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.25.32:507][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.25.32:507][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.25.32:508][503]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.25.32:510][503]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.25.32:510][503]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.25.32:525][503]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.25.32:526][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.25.32:526][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.25.32:526][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.25.32:526][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.25.32:526][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.25.32:526][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.25.32:529][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.25.32:529][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.25.32:529][503]LogInit: FAudioDevice initialized.
+[2023.03.16-15.25.32:529][503]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2023.03.16-15.25.32:539][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.25.32:540][503]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.25.32
+[2023.03.16-15.25.32:540][503]LogWorld: Bringing up level for play took: 0.000504
+[2023.03.16-15.25.32:540][503]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.03.16-15.25.32:554][503]PIE: Server logged in
+[2023.03.16-15.25.32:555][503]PIE: Play in editor total start time 0,064 seconds.
+[2023.03.16-15.25.41:857][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.25.41:857][ 55]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.25.41:857][ 55]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.25.41:858][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.25.41:872][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.25.41:874][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.25.41:878][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-15.25.41:879][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.25.41:880][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.25.41:883][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.25.41:886][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.16-15.25.41:943][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.03.16-15.26.21:972][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.16-15.26.22:287][367]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.03.16-15.26.23:186][367]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.16-15.26.28:586][619]LogSlate: Took 0.001560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.16-15.27.42:134][ 44]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.16-15.27.42:134][ 44]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.16-15.30.43:529][309]LogSlate: Took 0.000993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.16-15.34.50:015][499]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.16-15.34.50:072][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.03.16-15.35.17:963][689]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.16-15.35.18:019][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.03.16-15.35.26:199][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.35.26:211][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.35.26:211][ 74]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:35:26)
+[2023.03.16-15.35.26:212][ 74]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.35.26:215][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003461s)
+[2023.03.16-15.35.26:216][ 74]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.35.26:217][ 74]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2023.03.16-15.35.26:217][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005309s)
+[2023.03.16-15.35.26:240][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.16-15.35.26:241][ 74]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.35.26:241][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.35.26:241][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.35.26:241][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.35.26:241][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.35.26:241][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.35.26:244][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.35.26:244][ 74]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.35.26:260][ 74]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.35.26:260][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.35.26:260][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.35.26:260][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.35.26:261][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.35.26:261][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.35.26:261][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.35.26:262][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.35.26:262][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.35.26:262][ 74]LogInit: FAudioDevice initialized.
+[2023.03.16-15.35.26:262][ 74]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2023.03.16-15.35.26:272][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.35.26:273][ 74]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.35.26
+[2023.03.16-15.35.26:273][ 74]LogWorld: Bringing up level for play took: 0.000533
+[2023.03.16-15.35.26:273][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.03.16-15.35.26:278][ 74]PIE: Server logged in
+[2023.03.16-15.35.26:279][ 74]PIE: Play in editor total start time 0,073 seconds.
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_01_6.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice01_aura_23.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice02_aura_34.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice03_aura_5.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice04_aura_4.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice05_aura_38.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_01_7.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_02_10.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_03_13.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_04_16.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_05_19.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_02_22.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_03_29.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_04_30.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_05_31.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_05_6.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_04_9.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_03_12.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_02_15.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.27:983][175]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_01_18.SpawnScript.NiagaraDataInterfaceStaticMesh_8, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.35.38:883][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.35.38:883][751]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.35.38:883][751]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.35.38:883][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.35.38:896][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.35.38:912][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.35.38:931][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-15.35.38:931][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.35.38:932][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.35.38:936][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.35.38:940][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.16-15.35.38:959][752]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.16-15.35.39:973][802]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01
+[2023.03.16-15.35.43:673][802]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.16-15.35.43:757][802]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.16-15.35.50:464][856]71403_NE_IceCone_01_MessageLog: System successfully compiled.
+[2023.03.16-15.35.55:046][857]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:056][857]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.35.55:056][857]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:056][857]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:122][857]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.35.55:122][857]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:122][857]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:307][857]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.35.55:307][857]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.55:307][857]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.57:292][857]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.01%
+[2023.03.16-15.35.57:293][857]LogShaderCompilers: Display: ================================================
+[2023.03.16-15.36.03:566][892]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:578][892]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.36.03:578][892]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:578][892]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:646][892]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.36.03:646][892]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:646][892]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:843][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.36.03:843][892]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.03:843][892]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.06:020][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.03.16-15.36.06:020][893]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.09:962][991]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 19.465527 sec (time since issued), 21.439657 sec (combined shader worker time).
+[2023.03.16-15.36.16:762][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.36.16:762][993]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.16:773][993]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.16:773][993]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.16:839][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.36.16:839][993]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.16:839][993]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.17:032][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.36.17:032][993]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.17:032][993]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.19:140][994]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.16-15.36.19:140][994]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.19:238][994]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 20.655033 sec (time since issued), 40.268780 sec (combined shader worker time).
+[2023.03.16-15.36.29:901][ 92]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.29:912][ 92]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.36.29:912][ 92]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.29:912][ 92]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.29:988][ 92]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.36.29:988][ 92]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.29:988][ 92]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.30:176][ 92]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.36.30:176][ 92]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.30:176][ 92]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.32:176][ 93]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.03.16-15.36.32:177][ 93]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.32:261][ 93]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 20.340349 sec (time since issued), 28.678535 sec (combined shader worker time).
+[2023.03.16-15.36.42:495][181]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:507][181]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.36.42:507][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:507][181]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:576][181]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.36.42:577][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:577][181]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:787][181]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.36.42:787][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.42:787][181]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.46:489][182]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.16-15.36.46:489][182]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.36.57:244][470]LogNiagaraEditor: System NE_IceCone_01 has pending compile jobs. Waiting for that code to complete before Saving..
+[2023.03.16-15.36.58:261][470]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 33.243198 sec (time since issued), 41.210747 sec (combined shader worker time).
+[2023.03.16-15.37.02:434][470]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 24.991804 sec (time since issued), 66.833786 sec (combined shader worker time).
+[2023.03.16-15.37.04:373][470]LogSavePackage: Moving '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Saved/NE_IceCone_013D98507D4E57B03323DA7E94620614B6.tmp' to '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/IceCone_VFX/Effects/NE_IceCone_01.uasset'
+[2023.03.16-15.37.04:535][470]AssetCheck: New page: Asset Save: NE_IceCone_01
+[2023.03.16-15.37.04:535][470]LogContentValidation: Display: Validating NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01
+[2023.03.16-15.37.09:557][524]71403_NE_IceCone_01_MessageLog: System successfully compiled.
+[2023.03.16-15.37.11:138][610]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.37.11:152][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.37.11:152][610]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:37:11)
+[2023.03.16-15.37.11:152][610]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.37.11:154][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2023.03.16-15.37.11:165][610]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.37.11:166][610]LogPlayLevel: PIE: World Init took: (0.011383s)
+[2023.03.16-15.37.11:166][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.013791s)
+[2023.03.16-15.37.11:477][610]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2023.03.16-15.37.11:486][610]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.37.11:486][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.37.11:486][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.37.11:487][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.37.11:487][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.37.11:487][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.37.11:487][610]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.37.11:489][610]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.37.11:489][610]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.37.11:504][610]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.37.11:505][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.37.11:505][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.37.11:505][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.37.11:505][610]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.37.11:506][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.37.11:506][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.37.11:507][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.37.11:507][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.37.11:507][610]LogInit: FAudioDevice initialized.
+[2023.03.16-15.37.11:507][610]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2023.03.16-15.37.11:522][610]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.37.11:523][610]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.37.11
+[2023.03.16-15.37.11:523][610]LogWorld: Bringing up level for play took: 0.000512
+[2023.03.16-15.37.11:523][610]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.16-15.37.11:527][610]PIE: Server logged in
+[2023.03.16-15.37.11:528][610]PIE: Play in editor total start time 0,38 seconds.
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_01_6.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice01_aura_23.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice02_aura_34.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice03_aura_5.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice04_aura_4.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice05_aura_38.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:343][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_01_7.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_02_10.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_03_13.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_04_16.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_05_19.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_02_22.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_03_29.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_04_30.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_05_31.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_05_6.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_04_9.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_03_12.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_02_15.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.14:344][769]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_01_18.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_01_6.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice01_aura_23.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice02_aura_34.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice03_aura_5.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice04_aura_4.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Ice05_aura_38.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_01_7.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:717][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_02_10.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_03_13.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_04_16.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Smoke_05_19.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_02_22.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_03_29.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_04_30.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Debris_05_31.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_05_6.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_04_9.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_03_12.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_02_15.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.37.28:718][407]LogNiagara: StaticMesh data interface using a mesh that does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01:Dots_01_18.SpawnScript.NiagaraDataInterfaceStaticMesh_5, Mesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM
+[2023.03.16-15.38.40:098][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.38.40:098][558]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.38.40:098][558]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.38.40:098][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.38.40:115][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.38.40:161][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.38.40:506][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.38.40:507][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.38.40:508][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.38.40:522][558]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2023.03.16-15.38.40:579][559]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.16-15.39.42:120][764]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2023.03.16-15.39.51:482][ 56]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.16-15.39.51:494][ 56]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.16-15.39.51:532][ 56]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.16-15.40.02:240][696]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_IceCone
+[2023.03.16-15.40.02:258][696]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.16-15.40.04:704][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_IceCone.BP_IceCone
+[2023.03.16-15.40.05:223][827]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2023.03.16-15.40.50:466][446]BlueprintLog: New page: Compile BP_IceCone
+[2023.03.16-15.40.51:055][446]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2023.03.16-15.40.59:381][741]BlueprintLog: New page: Compile BP_IceCone
+[2023.03.16-15.41.00:033][741]LogUObjectHash: Compacting FUObjectHashTables data took  10.89ms
+[2023.03.16-15.42.54:921][848]BlueprintLog: New page: Compile BP_IceCone
+[2023.03.16-15.42.55:498][848]LogUObjectHash: Compacting FUObjectHashTables data took  10.06ms
+[2023.03.16-15.43.19:202][683]LogSlate: Window 'Delete Variable' being destroyed
+[2023.03.16-15.43.46:919][810]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.16-15.43.46:944][810]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.16-15.46.57:283][359]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.16-15.46.57:869][359]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2023.03.16-15.47.05:022][702]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.47.05:040][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.47.05:040][702]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:47:05)
+[2023.03.16-15.47.05:040][702]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.47.05:044][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003347s)
+[2023.03.16-15.47.05:045][702]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.47.05:045][702]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2023.03.16-15.47.05:045][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004994s)
+[2023.03.16-15.47.05:231][702]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.03.16-15.47.05:234][702]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.47.05:234][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.47.05:234][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.47.05:235][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.47.05:235][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.47.05:235][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.47.05:235][702]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.47.05:237][702]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.47.05:238][702]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.47.05:252][702]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.47.05:253][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.47.05:253][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.47.05:253][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.47.05:253][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.47.05:253][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.47.05:253][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.47.05:255][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.47.05:255][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.47.05:255][702]LogInit: FAudioDevice initialized.
+[2023.03.16-15.47.05:255][702]LogAudio: Display: Audio Device (ID: 6) registered with world 'Untitled_1'.
+[2023.03.16-15.47.05:265][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.47.05:266][702]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.47.05
+[2023.03.16-15.47.05:266][702]LogWorld: Bringing up level for play took: 0.000529
+[2023.03.16-15.47.05:267][702]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.16-15.47.05:270][702]PIE: Server logged in
+[2023.03.16-15.47.05:271][702]PIE: Play in editor total start time 0,237 seconds.
+[2023.03.16-15.47.32:183][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.47.32:183][852]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.47.32:184][852]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.47.32:184][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.47.32:193][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.47.32:245][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.47.32:501][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.47.32:501][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.47.32:502][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.47.32:515][852]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2023.03.16-15.47.32:572][853]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.16-15.47.48:944][301]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.48:950][301]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.16-15.47.48:951][301]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.48:951][301]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.49:013][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.16-15.47.49:013][301]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.49:013][301]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.49:184][301]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.16-15.47.49:184][301]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.49:184][301]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: Total job queries 24, among them cache hits 0 (0.00%)
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 14 distinct outputs (60.87%)
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: RAM used: 0.47 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.07%
+[2023.03.16-15.47.51:090][301]LogShaderCompilers: Display: ================================================
+[2023.03.16-15.49.35:507][695]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.16-15.49.36:112][695]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2023.03.16-15.49.42:585][  7]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2023.03.16-15.49.45:205][160]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.49.45:218][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.49.45:218][160]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:49:45)
+[2023.03.16-15.49.45:218][160]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.49.45:221][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2023.03.16-15.49.45:222][160]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.49.45:223][160]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2023.03.16-15.49.45:223][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004437s)
+[2023.03.16-15.49.45:421][160]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2023.03.16-15.49.45:425][160]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.49.45:425][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.49.45:425][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.49.45:425][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.49.45:425][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.49.45:425][160]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.49.45:427][160]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.49.45:428][160]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.49.45:443][160]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.49.45:443][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.49.45:443][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.49.45:443][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.49.45:444][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.49.45:444][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.49.45:444][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.49.45:445][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.49.45:445][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.49.45:445][160]LogInit: FAudioDevice initialized.
+[2023.03.16-15.49.45:445][160]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled_1'.
+[2023.03.16-15.49.45:459][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.49.45:460][160]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.49.45
+[2023.03.16-15.49.45:460][160]LogWorld: Bringing up level for play took: 0.000616
+[2023.03.16-15.49.45:460][160]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.16-15.49.45:464][160]PIE: Server logged in
+[2023.03.16-15.49.45:465][160]PIE: Play in editor total start time 0,251 seconds.
+[2023.03.16-15.49.47:910][298]LogNiagara: Compiling System NiagaraSystem /Game/IceCone_VFX/Effects/NE_IceCone_01.NE_IceCone_01 took 123.420212 sec (time since issued), 125.119560 sec (combined shader worker time).
+[2023.03.16-15.49.52:797][353]71403_NE_IceCone_01_MessageLog: System successfully compiled.
+[2023.03.16-15.50.50:476][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.50.50:476][513]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.50.50:476][513]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.50.50:477][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.50.50:488][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.50.50:544][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.50.50:812][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-15.50.50:813][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.50.50:814][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.50.50:817][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.50.50:828][513]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2023.03.16-15.50.50:883][514]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.16-15.51.01:728][969]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.16-15.51.02:338][969]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2023.03.16-15.51.05:362][118]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.51.05:379][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.51.05:379][118]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:51:05)
+[2023.03.16-15.51.05:379][118]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.51.05:382][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002976s)
+[2023.03.16-15.51.05:384][118]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.51.05:384][118]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2023.03.16-15.51.05:384][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004657s)
+[2023.03.16-15.51.05:581][118]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2023.03.16-15.51.05:583][118]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.51.05:583][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.51.05:583][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.51.05:584][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.51.05:584][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.51.05:584][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.51.05:584][118]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.51.05:586][118]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.51.05:586][118]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.51.05:602][118]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.51.05:602][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.51.05:602][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.51.05:602][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.51.05:603][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.51.05:603][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.51.05:603][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.51.05:604][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.51.05:604][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.51.05:605][118]LogInit: FAudioDevice initialized.
+[2023.03.16-15.51.05:605][118]LogAudio: Display: Audio Device (ID: 8) registered with world 'Untitled_1'.
+[2023.03.16-15.51.05:614][118]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.51.05:615][118]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.51.05
+[2023.03.16-15.51.05:616][118]LogWorld: Bringing up level for play took: 0.000729
+[2023.03.16-15.51.05:616][118]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.16-15.51.05:620][118]PIE: Server logged in
+[2023.03.16-15.51.05:621][118]PIE: Play in editor total start time 0,248 seconds.
+[2023.03.16-15.51.12:076][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.51.12:076][425]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.51.12:076][425]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.51.12:077][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.51.12:092][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.51.12:147][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.51.12:416][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.51.12:417][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.51.12:418][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.51.12:431][425]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2023.03.16-15.51.12:491][426]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.16-15.51.45:885][409]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2023.03.16-15.51.48:347][553]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.16-15.51.48:368][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-15.51.48:368][553]PIE: New page: PIE session: Untitled_1 (16 бер. 2023 р., 19:51:48)
+[2023.03.16-15.51.48:369][553]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.51.48:373][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003981s)
+[2023.03.16-15.51.48:374][553]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.16-15.51.48:376][553]LogPlayLevel: PIE: World Init took: (0.002818s)
+[2023.03.16-15.51.48:376][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007088s)
+[2023.03.16-15.51.48:572][553]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2023.03.16-15.51.48:579][553]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.16-15.51.48:579][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-15.51.48:579][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-15.51.48:580][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-15.51.48:580][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-15.51.48:580][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-15.51.48:580][553]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.16-15.51.48:582][553]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.16-15.51.48:582][553]LogAudioMixer: Display: 1: FrontRight
+[2023.03.16-15.51.48:602][553]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.16-15.51.48:602][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-15.51.48:602][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-15.51.48:603][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-15.51.48:603][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.16-15.51.48:603][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.16-15.51.48:603][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.16-15.51.48:605][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.16-15.51.48:605][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.16-15.51.48:605][553]LogInit: FAudioDevice initialized.
+[2023.03.16-15.51.48:605][553]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled_1'.
+[2023.03.16-15.51.48:615][553]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.16-15.51.48:616][553]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.03.16-17.51.48
+[2023.03.16-15.51.48:616][553]LogWorld: Bringing up level for play took: 0.000536
+[2023.03.16-15.51.48:616][553]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.03.16-15.51.48:620][553]PIE: Server logged in
+[2023.03.16-15.51.48:621][553]PIE: Play in editor total start time 0,262 seconds.
+[2023.03.16-15.55.27:704][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.55.27:704][441]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.16-15.55.27:704][441]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-15.55.27:705][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.55.27:720][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-15.55.27:776][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-15.55.28:046][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-15.55.28:046][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.55.28:047][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.16-15.55.28:062][441]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2023.03.16-15.55.28:121][442]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.16-15.59.31:589][305]LogSlate: Window 'Save Level As' being destroyed
+[2023.03.16-16.00.05:708][439]LogSlate: Window 'Save Level As' being destroyed
+[2023.03.16-16.00.05:980][439]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2023.03.16-16.00.05:995][439]LogSavePackage: Moving '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Saved/testmap_16032325AF21F8494F1C14ACDFBCAC7D48DBE1.tmp' to '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/Maps/testmap_160323.umap'
+[2023.03.16-16.00.06:738][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testmap_160323_BuiltData" FILE="../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/Maps/testmap_160323_BuiltData.uasset" SILENT=true
+[2023.03.16-16.00.06:751][439]LogSavePackage: Moving '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Saved/testmap_160323_BuiltData538725C14437E0D26EE1B4BE582BAB87.tmp' to '../../../../../../Users/Дар'я/Documents/Unreal Projects/2/MyProject2/Content/Maps/testmap_160323_BuiltData.uasset'
+[2023.03.16-16.00.06:757][439]LogFileHelpers: Saving map 'testmap_160323' took 1.037
+[2023.03.16-16.00.06:789][439]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.16-16.00.06:789][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/testmap_160323_BuiltData.testmap_160323_BuiltData
+[2023.03.16-16.00.06:789][439]LogContentValidation: Display: Validating World /Game/Maps/testmap_160323.testmap_160323
